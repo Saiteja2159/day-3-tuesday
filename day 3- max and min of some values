@@ -41,3 +41,36 @@ int *maxmin(int arra1[], int v)
           20
           Minimum value is: 11
           Maximum value is: 65
+	  
+	  
+	  
+	  Number of values you want to input: 2
+Input 2 values
+2
+3
+Minimum value is: 2
+Maximum value is: 3
+
+
+Number of values you want to input: 2
+Input 2 values
+6
+10
+Minimum value is: 6
+Maximum value is: 10
+
+
+Number of values you want to input: 2
+Input 2 values
+67
+88
+Minimum value is: 67
+Maximum value is: 88
+
+
+Number of values you want to input: 2
+Input 2 values
+-5
+3
+Minimum value is: -5
+Maximum value is: 3
