@@ -36,3 +36,13 @@ void findFactorial(int num,int *factorial){
          TEST CASE 3
          Enter a number: 1
          Factorial of 1 is: 1
+         
+         
+         TEST CASE 4
+         Enter a number: 2
+         Factorial of 2 is: 2
+         
+         
+         TEST CASE 5
+         Enter a number: 5
+         Factorial of 5 is: 120
